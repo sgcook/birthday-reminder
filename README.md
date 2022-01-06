@@ -11,4 +11,6 @@ Clicking the button "Clear All" removes all of the people from the list.
 
 CSS
 The style.css was copied from the tutorial.
-I cahnged the background color of both the body and the clear all button. I changed the border-radius of the images from 50% to 25%. I changed some of the text sizes. Added italics to the age and years text. Enlarged the heading text, centered it, and added an underline.
+
+My own tweaks:
+I cahnged the background color of both the body and the clear all button. I changed the border-radius of the images from 50% to 25%. I changed some of the text sizes. Added italics to the age and years text. Enlarged the heading text, centered it, and added an underline. Added remove button with remove functionality next to each person.

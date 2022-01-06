@@ -1,6 +1,6 @@
 Birthday-reminder
 
-Created a birthday-reminder app using this tutorial: https://www.youtube.com/watch?v=a_7Z7C_JCyo.
+I created a birthday-reminder app using this tutorial: https://www.youtube.com/watch?v=a_7Z7C_JCyo.
 
 This is one of my first React apps.
 I used create-react-app.
